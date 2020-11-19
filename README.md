@@ -1,11 +1,14 @@
+
 단디, SmartSafetyVest
 =====================
-
 IoT 센서 기반의 스마트 해상물류 안전을 위한 스마트 안전조끼(Smart Safety Vest)
 -----------------------------------
 > __울산 항만에서는 조끼를 단디 입어라!__
 
 > <img src="https://user-images.githubusercontent.com/63782897/99638126-2683f380-2a89-11eb-8d6f-559971c37712.png" width="20%">  
+
+youtube link : https://youtu.be/v_z069HFVbw
+(개인 프로젝트가 아니라 코드는 제외)
 
 ## 프로그램 소개
 
